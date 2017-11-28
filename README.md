@@ -24,3 +24,5 @@ python app.py
 - [x] Compress files above a given size. Using gzip.
 - [ ] Move the compressed file to s3(or any other place).
 - [ ] Delete the big files.
+- [ ] Create as a package to be installed and ran with other projects.
+- [ ] Create runnable binary for Ubuntu to be run on ubuntu servers.
