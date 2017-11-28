@@ -20,7 +20,7 @@ python app.py
 
 ## Todo
 
-- [ ] Sort all files with size from a given directory.
-- [ ] Compress files above a given size.
+- [x] Sort all files with size from a given directory.
+- [x] Compress files above a given size. Using gzip.
 - [ ] Move the compressed file to s3(or any other place).
 - [ ] Delete the big files.
